@@ -47,7 +47,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshgautam-github&show_icons=true&locale=en" alt="anshgautam-github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshgautam-github&" alt="anshgautam-github" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anshgautam-githubv" alt="GitHub Streak" /></a></p>
 
 
 <h3>⚡Digital Badges </h3> <br>
