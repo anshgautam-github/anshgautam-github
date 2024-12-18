@@ -70,4 +70,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anshgautam-github&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![image](https://github.com/user-attachments/assets/8c725429-ecb7-4938-9951-d4cc72a81c22)
+<img src="https://github.com/user-attachments/assets/8c725429-ecb7-4938-9951-d4cc72a81c22" alt="image" width="50" height="50">
+
