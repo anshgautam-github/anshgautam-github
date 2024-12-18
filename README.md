@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshgautam-github&label=Profile%20views&color=0e75b6&style=flat" alt="anshgautam-github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshgautam-github" alt="anshgautam-github" /></a> </p>
 
@@ -48,7 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshgautam-github&show_icons=true&locale=en" alt="anshgautam-github" /></p>
 
 <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=anshgautam-githubv" alt="GitHub Streak" /></a></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anshgautam-github%26)](https://git.io/streak-stats)
 
 <h3>⚡Digital Badges </h3> <br>
 <img src="https://github.com/user-attachments/assets/8c725429-ecb7-4938-9951-d4cc72a81c22" alt="image" width="150" height="150">
@@ -66,5 +64,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshgautam-github&label=Profile%20views&color=0e75b6&style=flat" alt="anshgautam-github" /> </p>
 
 
