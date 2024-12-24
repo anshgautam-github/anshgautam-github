@@ -4,27 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshgautam-github" alt="anshgautam-github" /></a> </p>
 
-- 🔭 I’m currently working on **asaasas**
-
-- 🌱 I’m currently learning **asaasas**
-
-- 👯 I’m looking to collaborate on **asaasas**
-
-- 🤝 I’m looking for help with **asaasas**
-
-- 👨‍💻 All of my projects are available at [asaasas](asaasas)
-
-- 📝 I regularly write articles on [asaasas](asaasas)
-
-- 💬 Ask me about **asaasas**
-
-- 📫 How to reach me **asaasas**
-
-- 📄 Know about my experiences [asaasas](asaasas)
-
-- ⚡ Fun fact **asaasas**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sds" height="30" width="40" /></a>
