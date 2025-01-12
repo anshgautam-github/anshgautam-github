@@ -7,11 +7,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sds" height="30" width="40" /></a>
-<a href="https://twitter.com/sdsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdsd" height="30" width="40" /></a>
+<a href="https://x.com/AnshGautam23178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdsd" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshgautam1011/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdsds" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sdsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sdsss" height="30" width="40" /></a>
 <a href="https://kaggle.com/sdsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sdsd" height="30" width="40" /></a>
-<a href="https://medium.com/sds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sds" height="30" width="40" /></a>
+<a href="https://dev.to/ansh_gautam_46649271f2d5f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sds" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sdd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sdd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/anshgautam_cont1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sdsd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dsd" height="30" width="40" /></a>
