@@ -1,1 +1,19 @@
-<img width="1736" height="906" alt="samp" src="https://github.com/user-attachments/assets/fcb65533-0792-4ed0-a688-4293809c6057" />
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/ansh-neofetch-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/ansh-neofetch-light.svg"
+    />
+
+    <img
+      src="./assets/ansh-neofetch-light.svg"
+      alt="Ansh Gautam GitHub profile"
+      width="100%"
+    />
+  </picture>
+</p>
